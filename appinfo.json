@@ -1,0 +1,83 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Boxkite",
+    "longName": "Cinema1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/movie12-2bit.png",
+                "name": "IMAGE_TWELVE",
+                "type": "png"
+            },
+            {
+                "file": "images/movie11-2bit.png",
+                "name": "IMAGE_ELEVEN",
+                "type": "png"
+            },
+            {
+                "file": "images/movie10-2bit.png",
+                "name": "IMAGE_TEN",
+                "type": "png"
+            },
+            {
+                "file": "images/movie9-2bit.png",
+                "name": "IMAGE_NINE",
+                "type": "png"
+            },
+            {
+                "file": "images/movie8-2bit.png",
+                "name": "IMAGE_EIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/movie7-2bit.png",
+                "name": "IMAGE_SEVEN",
+                "type": "png"
+            },
+            {
+                "file": "images/movie6-2bit.png",
+                "name": "IMAGE_SIX",
+                "type": "png"
+            },
+            {
+                "file": "images/movie5-2bit.png",
+                "name": "IMAGE_FIVE",
+                "type": "png"
+            },
+            {
+                "file": "images/movie4-2bit.png",
+                "name": "IMAGE_FOUR",
+                "type": "png"
+            },
+            {
+                "file": "images/movie3-2bit.png",
+                "name": "IMAGE_THREE",
+                "type": "png"
+            },
+            {
+                "file": "images/movie2-2bit.png",
+                "name": "IMAGE_TWO",
+                "type": "png"
+            },
+            {
+                "file": "images/movie1-2bit.png",
+                "name": "IMAGE_ONE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Cinema1",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "ecc8f112-318f-4ee2-be11-53c63b8a1139",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
